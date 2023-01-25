@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <!-- Latest compiled and minified CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="container">
+      <div class="py-5 text-center">
+        <h2>Review form</h2>
+      </div>
+      <fieldset>
+        
+        <form name="frmContact" class="needs-validation " method="post" action="contact2.php" onsubmit="return confirm('Are You Sure To Submit?');">
+        <!-- <form name="frmContact" class="needs-validation " method="post" action="contact2.php" > -->
+          <p>
+            <label for="regId" >Your Reigtration Id:</label>
+            <input type="text" class="form-control" name="regId" id="regId" onkeypress="return false;" style="background: #e7eef4;caret-color: transparent;"/>
+          </p>
+       
+          <p>
+            <label for="name">Your Name </label>
+            <input type="text" class="form-control"  name="txtName" id="txtName" onkeypress="return false;" style="background: #e7eef4;caret-color: transparent;" placeholder="Name"  required>
+          <div class="invalid-feedback">
+                        Valid first name is required.
+                      </div>
+          </p>
+          <p>
+            <label for="email">Your Email</label>
+            <input type="text"  class="form-control"  name="txtEmail" id="txtEmail" placeholder="Email" onkeypress="return false;" style="background: #e7eef4;caret-color: transparent;"required>
+          </p>
+          <p>
+            <label for="dob">Your DOB</label>
+            <input type="date"   class="form-control" name="txtDob" id="txtDob" placeholder="Phone" min="2006-01-01" max="2020-01-29" onkeypress="return false;" style="background: #e7eef4;caret-color: transparent;" required>
+          </p>
+          <p>
+            <label for="phone">Your Phone</label>
+            <input type="text"  class="form-control" name="txtPhone" id="txtPhone" placeholder="Phone" onkeypress="return false;" style="background: #e7eef4;caret-color: transparent;"  required>
+          </p>
+          <p>
+            <label for="address">Your Address</label>
+            <textarea name="txtAddress"  class="form-control"  id="txtAddress"  placeholder="Address" onkeypress="return false;" style="background: #e7eef4;caret-color: transparent;" required></textarea>
+          </p>
+          <p>
+            <label for="schoolName">Your School Name</label>
+            <textarea name="txtSchoolName" class="form-control"  id="schoolName"  placeholder="schoolName" onkeypress="return false;" style="background: #e7eef4;caret-color: transparent;" required></textarea>
+          </p>
+          <p>
+            <label for="age">Your Current Age</label>
+            <input name="txtAge" class="form-control"  id="txtAge" onkeypress="return false;" style="background: #e7eef4;caret-color: transparent;" placeholder="Message" required></input>
+          </p>
+          <p>
+            <label for="age">Your Age Group</label>
+            <input name="txtAgeGroup" class="form-control"  id="txtAgeGroup" onkeypress="return false;" style="background: #e7eef4;caret-color: transparent;" placeholder="Age Group" required></input>
+          </p>
+          <p>&nbsp;</p>
+          <div  style="    display: flex;
+    justify-content: space-between;
+    width: 100%;">
+          <p>
+            <a href="reg-form.html"><input type="button" name="edit" id="edit" value="Edit"  class="btn btn-primary btn-lg btn-block"></a>
+          </p>
+          <p>
+            <input type="submit" name="Submit" id="Submit" value="Final Submit"   class="btn btn-danger btn-lg btn-block">
+          </p>
+          </div>
+        </form>
+      </fieldset>
+    </div>
+  </body>
+  <script src="reg-form-review.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+</html>

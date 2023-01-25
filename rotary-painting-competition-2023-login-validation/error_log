@@ -1,0 +1,224 @@
+[08-Jan-2023 23:32:23 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'reg-form'@'localhost' (using password: YES) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php:6
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php(6): mysqli_connect('localhost', 'reg-form', 'Temp@2022', 'reg-form')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 6
+[08-Jan-2023 23:34:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'reg-form'@'localhost' (using password: YES) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php:6
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php(6): mysqli_connect('localhost', 'reg-form', 'Temp@2022', 'rotarycl_reg-fo...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 6
+[08-Jan-2023 23:35:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'reg-form'@'localhost' (using password: YES) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php:6
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php(6): mysqli_connect('localhost', 'reg-form', 'Temp@2022', 'rotarycl_reg-fo...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 6
+[08-Jan-2023 23:38:52 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'reg-form'@'localhost' (using password: YES) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php:8
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php(8): mysqli->__construct('localhost', 'reg-form', 'Temp@2022', 'rotarycl_reg-fo...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php on line 8
+[08-Jan-2023 23:40:50 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'reg-form'@'localhost' (using password: YES) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php:8
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php(8): mysqli->__construct('localhost', 'reg-form', 'Temp@2022', 'rotarycl_reg-fo...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php on line 8
+[08-Jan-2023 23:41:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'reg-form'@'localhost' (using password: YES) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php:8
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php(8): mysqli->__construct('localhost', 'reg-form', 'Temp@2022', 'rotarycl_reg-fo...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php on line 8
+[08-Jan-2023 23:41:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'reg-form'@'localhost' (using password: YES) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php:8
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php(8): mysqli->__construct('localhost', 'reg-form', 'Temp@2022', 'rotarycl_reg-fo...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php on line 8
+[08-Jan-2023 23:42:31 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'reg-form'@'localhost' (using password: YES) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php:8
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php(8): mysqli->__construct('localhost', 'reg-form', 'Temp@2022', 'rotarycl_reg-fo...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php on line 8
+[08-Jan-2023 23:43:27 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'reg-form'@'localhost' (using password: YES) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php:8
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php(8): mysqli->__construct('localhost', 'reg-form', 'Temp@2022', 'rotarycl_reg-fo...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php on line 8
+[08-Jan-2023 23:43:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'reg-form'@'localhost' (using password: YES) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php:8
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php(8): mysqli->__construct('localhost', 'reg-form', 'Temp@2022', 'rotarycl_reg-fo...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/testDb.php on line 8
+[09-Jan-2023 00:08:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php:27) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 38
+[09-Jan-2023 00:29:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php:27) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 38
+[09-Jan-2023 00:47:54 America/Chicago] PHP Parse error:  syntax error, unexpected token "@" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 45
+[09-Jan-2023 00:48:42 America/Chicago] PHP Warning:  Undefined variable $email in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 51
+[09-Jan-2023 00:48:42 America/Chicago] PHP Warning:  Undefined variable $email in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 55
+[09-Jan-2023 00:53:12 America/Chicago] PHP Warning:  Undefined variable $email in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 36
+[09-Jan-2023 00:53:12 America/Chicago] PHP Warning:  Undefined variable $email in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 40
+[09-Jan-2023 01:26:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php:53) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 64
+[09-Jan-2023 04:03:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 30
+[09-Jan-2023 04:09:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 30
+[09-Jan-2023 04:22:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/contact2.php on line 34
+[09-Jan-2023 08:00:38 America/Chicago] PHP Parse error:  syntax error, unexpected variable "$conn" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 10
+[09-Jan-2023 08:01:53 America/Chicago] PHP Parse error:  syntax error, unexpected variable "$conn" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 10
+[09-Jan-2023 08:06:14 America/Chicago] PHP Parse error:  syntax error, unexpected variable "$conn" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 10
+[09-Jan-2023 08:06:48 America/Chicago] PHP Parse error:  syntax error, unexpected variable "$conn" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 10
+[09-Jan-2023 08:20:00 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:20:00 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Group,RegistrationNo FROM 'tbl_contact' WHERE Group= ORDER BY 'DateCreated' DESC' at line 1 in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:17
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php(17): mysqli->query('SELECT Id,Group...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 17
+[09-Jan-2023 08:20:05 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:20:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Group,RegistrationNo FROM 'tbl_contact' WHERE Group= ORDER BY 'DateCreated' DESC' at line 1 in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:17
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php(17): mysqli->query('SELECT Id,Group...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 17
+[09-Jan-2023 08:20:08 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:20:08 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Group,RegistrationNo FROM 'tbl_contact' WHERE Group= ORDER BY 'DateCreated' DESC' at line 1 in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:17
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php(17): mysqli->query('SELECT Id,Group...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 17
+[09-Jan-2023 08:22:12 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:22:12 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tbl_contact' WHERE `Group`= ORDER BY 'DateCreated' DESC' at line 1 in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:17
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php(17): mysqli->query('SELECT `Id`,`Gr...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 17
+[09-Jan-2023 08:22:14 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:22:14 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tbl_contact' WHERE `Group`= ORDER BY 'DateCreated' DESC' at line 1 in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:17
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php(17): mysqli->query('SELECT `Id`,`Gr...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 17
+[09-Jan-2023 08:22:16 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:22:16 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tbl_contact' WHERE `Group`= ORDER BY 'DateCreated' DESC' at line 1 in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:17
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php(17): mysqli->query('SELECT `Id`,`Gr...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 17
+[09-Jan-2023 08:23:32 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:23:32 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `DateCreated` DESC' at line 1 in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:17
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php(17): mysqli->query('SELECT `Id`,`Gr...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 17
+[09-Jan-2023 08:23:35 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:23:35 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `DateCreated` DESC' at line 1 in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:17
+Stack trace:
+#0 /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php(17): mysqli->query('SELECT `Id`,`Gr...')
+#1 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 17
+[09-Jan-2023 08:29:47 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:29:47 America/Chicago] PHP Warning:  Undefined variable $row in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:29:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:29:47 America/Chicago] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:29:55 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:29:55 America/Chicago] PHP Warning:  Undefined variable $row in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:29:55 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:29:55 America/Chicago] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:30:47 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:30:47 America/Chicago] PHP Warning:  Undefined variable $row in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:30:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:30:47 America/Chicago] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:31:31 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:31:31 America/Chicago] PHP Warning:  Undefined variable $row in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:31:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:31:31 America/Chicago] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:31:33 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:31:33 America/Chicago] PHP Warning:  Undefined variable $row in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:31:33 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:31:33 America/Chicago] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:31:36 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:31:36 America/Chicago] PHP Warning:  Undefined variable $row in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:31:36 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:31:36 America/Chicago] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:31:58 America/Chicago] PHP Warning:  Undefined array key "textAgeGroup" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 6
+[09-Jan-2023 08:31:58 America/Chicago] PHP Warning:  Undefined variable $row in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:31:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:31:58 America/Chicago] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:32:55 America/Chicago] PHP Warning:  Undefined variable $row in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:32:55 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:32:55 America/Chicago] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:33:41 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 08:33:41 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 08:33:41 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 08:33:41 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:33:41 America/Chicago] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:37:09 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 08:37:09 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 08:37:09 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 08:37:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:37:09 America/Chicago] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:37:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 08:37:13 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 08:37:13 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 08:37:13 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 08:37:13 America/Chicago] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 10:52:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 10:52:07 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 10:52:07 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 10:52:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 10:52:07 America/Chicago] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 10:54:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 10:54:15 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 10:54:15 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 10:54:15 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[09-Jan-2023 10:55:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 10:55:00 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 10:55:00 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 22
+[09-Jan-2023 10:55:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/reg-form-review.php on line 26
+[10-Jan-2023 22:33:30 America/Chicago] PHP Warning:  Undefined variable $regid in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/thankyou.php on line 35
+[10-Jan-2023 22:35:01 America/Chicago] PHP Warning:  Undefined variable $regid in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/thankyou.php on line 35
+[10-Jan-2023 22:35:44 America/Chicago] PHP Warning:  Undefined variable $regid in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/thankyou.php on line 35
+[10-Jan-2023 22:36:46 America/Chicago] PHP Warning:  Undefined variable $regid in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/thankyou.php on line 35
+[10-Jan-2023 22:48:11 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/thankyou.php on line 12
+[10-Jan-2023 23:27:59 America/Chicago] PHP Warning:  Undefined array key "regId" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/registration-form-review.php on line 18
+[10-Jan-2023 23:29:19 America/Chicago] PHP Warning:  Undefined array key "regId" in /home2/rotaryclubdsw/public_html/rotary-painting-competition-2023/registration-form-review.php on line 18
